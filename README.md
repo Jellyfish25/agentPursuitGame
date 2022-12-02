@@ -24,6 +24,7 @@ Version: 12/2/2022 [Google Drive (executable)](https://drive.google.com/drive/fo
   - Three preset settings with increasing difficulty that can be toggled (Level One, Level Two, Level Three)
 - Energy level (health) displayed at the top of the screen
   - If the player shoots an agent, gain one energy level back
+  - If the energy level reaches 0, the end screen is displayed
 
 ## Sample Screens
 
